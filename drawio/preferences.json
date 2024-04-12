@@ -1,0 +1,36 @@
+{
+  "language": "",
+  "configVersion": null,
+  "customFonts": [],
+  "libraries": "general;arrows2;er;uml;allied_telesis;aws3;aws4b;aws4;network",
+  "customLibraries": [
+    "L.scratchpad"
+  ],
+  "plugins": [],
+  "recentColors": [
+    "333333"
+  ],
+  "formatWidth": "240",
+  "createTarget": false,
+  "pageFormat": {
+    "x": 0,
+    "y": 0,
+    "width": 1920,
+    "height": 1200
+  },
+  "search": true,
+  "showStartScreen": true,
+  "gridColor": "#d0d0d0",
+  "darkGridColor": "#424242",
+  "autosave": true,
+  "resizeImages": null,
+  "openCounter": 6,
+  "version": 18,
+  "unit": 1,
+  "isRulerOn": false,
+  "ui": "min",
+  "sidebarTitles": true,
+  "darkMode": false,
+  "pages": true,
+  "sketchMode": false
+}
